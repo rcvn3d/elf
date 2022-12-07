@@ -1,2 +1,2 @@
 # elf
-klipper configuration for my elf corexy printer
+Klipper configuration for my elf corexy printer
